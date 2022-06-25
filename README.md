@@ -28,6 +28,9 @@ cd 2d_seir_code/*
 python main.py
 ```
 
+## [Dataset for LEAM-US Simulator]([https://drive.google.com/drive/folders/102QfowJq7zmyR3W5LjF1K_eNZ0eAA8RL?usp=sharing](https://drive.google.com/drive/folders/1l5gqueulNXIrNc6yElx3WU8w-joxFiYj?usp=sharing))
+Download test_data to dataset_dir: data/data/test_data
+
 ## Model Training and Evaluation for LEAM-US Simulator
 ```
 cd leam_us_code/STNP/*
